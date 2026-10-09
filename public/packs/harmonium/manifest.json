@@ -1,0 +1,137 @@
+{
+  "name": "Harmonium (donyaquick, CC0)",
+  "license": "CC0-1.0",
+  "source": "https://freesound.org/s/330410/",
+  "envelope": {
+    "attack": 0.05,
+    "release": 0.12
+  },
+  "samples": [
+    {
+      "url": "h-036.wav",
+      "rootNote": 36,
+      "loNote": 36,
+      "hiNote": 37,
+      "loopStart": 0.85156,
+      "loopEnd": 1.96678,
+      "tune": 0
+    },
+    {
+      "url": "h-039.wav",
+      "rootNote": 39,
+      "loNote": 38,
+      "hiNote": 40,
+      "loopStart": 0.7844,
+      "loopEnd": 1.87329,
+      "tune": -6
+    },
+    {
+      "url": "h-042.wav",
+      "rootNote": 42,
+      "loNote": 41,
+      "hiNote": 43,
+      "loopStart": 0.79338,
+      "loopEnd": 1.88152,
+      "tune": -6
+    },
+    {
+      "url": "h-045.wav",
+      "rootNote": 45,
+      "loNote": 44,
+      "hiNote": 46,
+      "loopStart": 0.60025,
+      "loopEnd": 1.71261,
+      "tune": -9
+    },
+    {
+      "url": "h-048.wav",
+      "rootNote": 48,
+      "loNote": 47,
+      "hiNote": 49,
+      "loopStart": 0.84785,
+      "loopEnd": 1.93769,
+      "tune": -5
+    },
+    {
+      "url": "h-051.wav",
+      "rootNote": 51,
+      "loNote": 50,
+      "hiNote": 52,
+      "loopStart": 0.74007,
+      "loopEnd": 1.84327,
+      "tune": -4
+    },
+    {
+      "url": "h-054.wav",
+      "rootNote": 54,
+      "loNote": 53,
+      "hiNote": 55,
+      "loopStart": 0.80839,
+      "loopEnd": 1.90701,
+      "tune": -17
+    },
+    {
+      "url": "h-057.wav",
+      "rootNote": 57,
+      "loNote": 56,
+      "hiNote": 58,
+      "loopStart": 0.87571,
+      "loopEnd": 1.97417,
+      "tune": -10
+    },
+    {
+      "url": "h-060.wav",
+      "rootNote": 60,
+      "loNote": 59,
+      "hiNote": 61,
+      "loopStart": 0.78247,
+      "loopEnd": 1.87859,
+      "tune": -8
+    },
+    {
+      "url": "h-063.wav",
+      "rootNote": 63,
+      "loNote": 62,
+      "hiNote": 64,
+      "loopStart": 0.86374,
+      "loopEnd": 1.96127,
+      "tune": -8
+    },
+    {
+      "url": "h-066.wav",
+      "rootNote": 66,
+      "loNote": 65,
+      "hiNote": 67,
+      "loopStart": 0.78029,
+      "loopEnd": 1.88141,
+      "tune": -3
+    },
+    {
+      "url": "h-069.wav",
+      "rootNote": 69,
+      "loNote": 68,
+      "hiNote": 70,
+      "loopStart": 0.76109,
+      "loopEnd": 1.86152,
+      "tune": -10
+    },
+    {
+      "url": "h-072.wav",
+      "rootNote": 72,
+      "loNote": 71,
+      "hiNote": 73,
+      "loopStart": 0.72576,
+      "loopEnd": 1.82556,
+      "tune": -11
+    },
+    {
+      "url": "h-074.wav",
+      "rootNote": 74,
+      "loNote": 74,
+      "hiNote": 77,
+      "loopStart": 0.87546,
+      "loopEnd": 1.97714,
+      "tune": -10
+    }
+  ]
+}
